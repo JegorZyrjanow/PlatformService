@@ -2,7 +2,6 @@ nupkg/
 *.nupkg
 
 /.vscode/
-/.idea/
 
 *.suo
 *.user
@@ -17,6 +16,7 @@ nupkg/
 build/
 [Bb]in/
 out/
+obj/
 
 !/packages/*/lib/*.dll
 !/packages/*/lib/*/*.dll
