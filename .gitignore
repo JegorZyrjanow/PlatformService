@@ -1,8 +1,8 @@
 nupkg/
 *.nupkg
 
-.vscode
-.idea
+/.vscode/
+/.idea/
 
 *.suo
 *.user
